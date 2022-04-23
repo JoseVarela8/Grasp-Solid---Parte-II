@@ -1,0 +1,12 @@
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/bin/Debug/netcoreapp6.0/Library.deps.json
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/bin/Debug/netcoreapp6.0/Library.dll
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/bin/Debug/netcoreapp6.0/Library.pdb
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/obj/Debug/netcoreapp6.0/Library.csproj.AssemblyReference.cache
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/obj/Debug/netcoreapp6.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/obj/Debug/netcoreapp6.0/Library.AssemblyInfoInputs.cache
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/obj/Debug/netcoreapp6.0/Library.AssemblyInfo.cs
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/obj/Debug/netcoreapp6.0/Library.csproj.CoreCompileInputs.cache
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/obj/Debug/netcoreapp6.0/Library.dll
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/obj/Debug/netcoreapp6.0/refint/Library.dll
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/obj/Debug/netcoreapp6.0/Library.pdb
+/Users/jose/Desktop/Prog2/Entregas/PII_Full_GRASP_and_SOLID_2_Start/src/Library/obj/Debug/netcoreapp6.0/ref/Library.dll
